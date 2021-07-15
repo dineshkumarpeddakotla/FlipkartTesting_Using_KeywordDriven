@@ -1,0 +1,10 @@
+[INFO ] 2021-07-12 18:36:04.334 [Test worker] Log - Browser is selected
+[INFO ] 2021-07-12 18:36:04.367 [Test worker] Log - launching chrome browser
+[INFO ] 2021-07-12 18:36:58.378 [Test worker] Log - navigating to url
+[INFO ] 2021-07-12 18:36:58.938 [Test worker] Log - send value
+[INFO ] 2021-07-12 18:36:59.328 [Test worker] Log - send value
+[INFO ] 2021-07-12 18:36:59.518 [Test worker] Log - click on element
+[INFO ] 2021-07-12 18:37:03.520 [Test worker] Log - element is displayed
+[INFO ] 2021-07-12 18:37:03.780 [Test worker] Log - send value
+[INFO ] 2021-07-12 18:37:04.021 [Test worker] Log - click on element
+[INFO ] 2021-07-12 18:37:04.159 [Test worker] Log - closing browser

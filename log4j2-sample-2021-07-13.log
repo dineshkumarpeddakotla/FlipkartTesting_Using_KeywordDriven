@@ -1,0 +1,64 @@
+[INFO ] 2021-07-13 11:55:51.633 [Test worker] Log - Browser is selected
+[INFO ] 2021-07-13 11:55:51.696 [Test worker] Log - launching chrome browser
+[INFO ] 2021-07-13 11:56:42.850 [Test worker] Log - navigating to url
+[INFO ] 2021-07-13 11:56:43.383 [Test worker] Log - send value
+[INFO ] 2021-07-13 11:56:43.720 [Test worker] Log - send value
+[INFO ] 2021-07-13 11:56:43.980 [Test worker] Log - click on element
+[INFO ] 2021-07-13 11:56:46.973 [Test worker] Log - element is displayed
+[INFO ] 2021-07-13 11:56:47.124 [Test worker] Log - send value
+[INFO ] 2021-07-13 11:56:47.299 [Test worker] Log - click on element
+[INFO ] 2021-07-13 12:09:23.523 [Test worker] Log - Browser is selected
+[INFO ] 2021-07-13 12:09:23.537 [Test worker] Log - launching chrome browser
+[INFO ] 2021-07-13 12:09:40.015 [Test worker] Log - navigating to url
+[INFO ] 2021-07-13 12:09:40.172 [Test worker] Log - send value
+[INFO ] 2021-07-13 12:09:40.657 [Test worker] Log - send value
+[INFO ] 2021-07-13 12:09:40.838 [Test worker] Log - click on element
+[INFO ] 2021-07-13 12:09:44.143 [Test worker] Log - element is displayed
+[INFO ] 2021-07-13 12:09:44.451 [Test worker] Log - send value
+[INFO ] 2021-07-13 12:09:44.717 [Test worker] Log - click on element
+[INFO ] 2021-07-13 12:10:48.598 [Test worker] Log - Browser is selected
+[INFO ] 2021-07-13 12:10:48.615 [Test worker] Log - launching chrome browser
+[INFO ] 2021-07-13 12:11:04.821 [Test worker] Log - navigating to url
+[INFO ] 2021-07-13 12:11:05.042 [Test worker] Log - send value
+[INFO ] 2021-07-13 12:11:05.508 [Test worker] Log - send value
+[INFO ] 2021-07-13 12:11:05.712 [Test worker] Log - click on element
+[INFO ] 2021-07-13 12:11:08.670 [Test worker] Log - element is displayed
+[INFO ] 2021-07-13 12:11:08.967 [Test worker] Log - send value
+[INFO ] 2021-07-13 12:11:09.232 [Test worker] Log - click on element
+[INFO ] 2021-07-13 12:59:58.326 [Test worker] Log - Browser is selected
+[INFO ] 2021-07-13 12:59:58.357 [Test worker] Log - launching chrome browser
+[INFO ] 2021-07-13 13:00:46.527 [Test worker] Log - navigating to url
+[INFO ] 2021-07-13 13:01:20.936 [Test worker] Log - send value
+[INFO ] 2021-07-13 13:01:43.433 [Test worker] Log - send value
+[INFO ] 2021-07-13 13:02:05.029 [Test worker] Log - click on element
+[INFO ] 2021-07-13 13:02:36.669 [Test worker] Log - element is displayed
+[INFO ] 2021-07-13 13:02:57.133 [Test worker] Log - send value
+[INFO ] 2021-07-13 13:03:17.687 [Test worker] Log - click on element
+[INFO ] 2021-07-13 13:03:59.546 [Test worker] Log - closing browser
+[INFO ] 2021-07-13 13:06:12.690 [Test worker] Log - Browser is selected
+[INFO ] 2021-07-13 13:06:12.706 [Test worker] Log - launching chrome browser
+[INFO ] 2021-07-13 13:06:23.231 [Test worker] Log - navigating to url
+[INFO ] 2021-07-13 13:06:23.363 [Test worker] Log - send value
+[INFO ] 2021-07-13 13:06:23.675 [Test worker] Log - send value
+[INFO ] 2021-07-13 13:06:23.785 [Test worker] Log - click on element
+[INFO ] 2021-07-13 13:06:26.385 [Test worker] Log - element is displayed
+[INFO ] 2021-07-13 13:06:26.589 [Test worker] Log - send value
+[INFO ] 2021-07-13 13:06:26.893 [Test worker] Log - click on element
+[INFO ] 2021-07-13 23:01:31.161 [Test worker] Log - Browser is selected
+[INFO ] 2021-07-13 23:01:31.186 [Test worker] Log - launching chrome browser
+[INFO ] 2021-07-13 23:01:56.209 [Test worker] Log - navigating to url
+[INFO ] 2021-07-13 23:01:56.439 [Test worker] Log - send value
+[INFO ] 2021-07-13 23:01:56.906 [Test worker] Log - send value
+[INFO ] 2021-07-13 23:01:57.036 [Test worker] Log - click on element
+[INFO ] 2021-07-13 23:02:01.992 [Test worker] Log - element is displayed
+[INFO ] 2021-07-13 23:02:02.260 [Test worker] Log - send value
+[INFO ] 2021-07-13 23:02:02.454 [Test worker] Log - click on element
+[INFO ] 2021-07-13 23:04:45.857 [Test worker] Log - Browser is selected
+[INFO ] 2021-07-13 23:04:45.883 [Test worker] Log - launching chrome browser
+[INFO ] 2021-07-13 23:05:08.552 [Test worker] Log - navigating to url
+[INFO ] 2021-07-13 23:05:08.720 [Test worker] Log - send value
+[INFO ] 2021-07-13 23:05:09.102 [Test worker] Log - send value
+[INFO ] 2021-07-13 23:05:09.272 [Test worker] Log - click on element
+[INFO ] 2021-07-13 23:05:12.073 [Test worker] Log - element is displayed
+[INFO ] 2021-07-13 23:05:12.363 [Test worker] Log - send value
+[INFO ] 2021-07-13 23:05:12.555 [Test worker] Log - click on element

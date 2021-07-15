@@ -1,0 +1,12 @@
+[INFO ] 2021-07-15 08:15:02.996 [Test worker] Log - loginToApplication test is starting.
+[INFO ] 2021-07-15 08:15:04.691 [Test worker] Log - Browser is selected
+[INFO ] 2021-07-15 08:15:04.691 [Test worker] Log - launching chrome browser
+[INFO ] 2021-07-15 08:15:25.653 [Test worker] Log - navigating to url
+[INFO ] 2021-07-15 08:15:26.076 [Test worker] Log - send value
+[INFO ] 2021-07-15 08:15:26.696 [Test worker] Log - send value
+[INFO ] 2021-07-15 08:15:26.995 [Test worker] Log - click on element
+[INFO ] 2021-07-15 08:15:32.582 [Test worker] Log - element is displayed
+[INFO ] 2021-07-15 08:15:32.742 [Test worker] Log - send value
+[INFO ] 2021-07-15 08:15:32.852 [Test worker] Log - click on element
+[ERROR] 2021-07-15 08:15:32.977 [Test worker] Log - loginToApplication Test is failed
+[INFO ] 2021-07-15 08:15:34.138 [Test worker] Log - I am in onFinish method Gradle test
