@@ -1,7 +1,4 @@
-/*
- *Purpose : Class is implemented for taking screenshots after every test execution
- *          by implements ITestListener interface and uses ITestResults interface
- *          to identify the results of test
+/*Purpose : Class is implemented to select web browser and returns driver
  *
  * @author Dinesh Kumar Peddakotla
  * @version 1.0
